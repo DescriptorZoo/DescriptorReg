@@ -1,0 +1,3 @@
+name = "AMP"
+uuid = "8c5b52c7-7933-4e29-b3e0-9d1a7d7165c4"
+repo = "https://github.com/DescriptorZoo/AMP.jl.git"
