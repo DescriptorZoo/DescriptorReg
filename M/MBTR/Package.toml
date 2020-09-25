@@ -1,0 +1,3 @@
+name = "MBTR"
+uuid = "9eff7b03-5cd4-4856-9b32-92c85ebe06b9"
+repo = "https://github.com/DescriptorZoo/MBTR.jl.git"
