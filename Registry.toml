@@ -1,0 +1,6 @@
+name = "DescriptorReg"
+uuid = "de1f8356-9189-4120-985d-5b0a41366bb0"
+repo = "https://github.com/DescriptorZoo/DescriptorReg.git"
+description = "Registry for Materials and Molecular Descriptor Packages"
+
+[packages]
