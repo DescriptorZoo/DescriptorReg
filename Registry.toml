@@ -4,4 +4,5 @@ repo = "https://github.com/DescriptorZoo/DescriptorReg.git"
 description = "Registry for Materials and Molecular Descriptor Packages"
 
 [packages]
+5b5851ca-98f8-4ad3-91b3-e58310a75415 = { name = "QUIP", path = "Q/QUIP" }
 8c5b52c7-7933-4e29-b3e0-9d1a7d7165c4 = { name = "AMP", path = "A/AMP" }
