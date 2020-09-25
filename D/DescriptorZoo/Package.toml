@@ -1,0 +1,3 @@
+name = "DescriptorZoo"
+uuid = "c2b516e9-892e-46cd-9b98-1bc27c4badb2"
+repo = "https://github.com/DescriptorZoo/DescriptorZoo.jl.git"
