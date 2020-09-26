@@ -9,5 +9,6 @@ description = "Registry for Materials and Molecular Descriptor Packages"
 9eff7b03-5cd4-4856-9b32-92c85ebe06b9 = { name = "MBTR", path = "M/MBTR" }
 c2b516e9-892e-46cd-9b98-1bc27c4badb2 = { name = "DescriptorZoo", path = "D/DescriptorZoo" }
 cb5341de-5fb8-11ea-0ad4-91a81b4b8b32 = { name = "CHSF", path = "C/CHSF" }
+d2bdc3a2-1f09-4d6b-8406-1d3d6d420f84 = { name = "ACSF", path = "A/ACSF" }
 fad40735-9ed7-43f8-a6f6-f9b1a0963de7 = { name = "SOAPlite", path = "S/SOAPlite" }
 fc698248-5163-421b-9ee2-8b62db393dc1 = { name = "DScribe", path = "D/DScribe" }
