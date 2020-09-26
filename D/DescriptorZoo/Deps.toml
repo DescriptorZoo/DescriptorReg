@@ -13,3 +13,6 @@ Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 SHIPs = "07029e18-8f70-11e9-35ce-2d4df590abdc"
 SOAPlite = "fad40735-9ed7-43f8-a6f6-f9b1a0963de7"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+["0.1.1-0"]
+ACSF = "d2bdc3a2-1f09-4d6b-8406-1d3d6d420f84"
